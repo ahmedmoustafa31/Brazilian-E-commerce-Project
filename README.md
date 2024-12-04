@@ -90,7 +90,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Monthly sales peaked in July 2017, driven by seasonal promotions.
 
 **Dashboard Preview**:  
-![SalesAnalysis](SalesAnalysis.png)
+![SalesAnalysis](Dashboards/SalesAnalysis.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - A direct correlation between shipping cost and product size was observed.
 
 **Dashboard Preview**:  
-![ShippingCost](Dashboards/ShippingCost.png)
+![ShippingCost](Dashboards/ShippingCost.jpg)
 
 ---
 
@@ -114,7 +114,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - States closer to São Paulo experienced faster delivery times.
 
 **Dashboard Preview**:  
-![OrderLifeCycle](Dashboards/OrderLifeCycle.png)
+![OrderLifeCycle](Dashboards/OrderLifeCycle.jpg)
 
 ---
 
@@ -126,7 +126,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Most customers preferred credit card payments, accounting for 74% of transactions.
 
 **Dashboard Preview**:  
-![CustomerInsights](Dashboards/CustomerInsights.png)
+![CustomerInsights](Dashboards/CustomerInsights.jpg)
 
 ---
 
@@ -138,7 +138,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Seller distribution aligned closely with customer density across states.
 
 **Dashboard Preview**:  
-![SellersEvaluation](Dashboards/SellersEvaluation.png)
+![SellersEvaluation](Dashboards/SellersEvaluation.jpg)
 
 ---
 
@@ -150,7 +150,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Over 99,000 unique customers were served, demonstrating extensive reach.
 
 **Dashboard Preview**:  
-![BusinessSummary](Dashboards/BusinessSummary.png)
+![BusinessSummary](Dashboards/BusinessSummary.jpg)
 
 ---
 
