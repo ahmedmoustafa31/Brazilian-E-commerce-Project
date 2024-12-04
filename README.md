@@ -90,7 +90,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Monthly sales peaked in July 2017, driven by seasonal promotions.
 
 **Dashboard Preview**:  
-![SalesAnalysis](Dashboards/SalesAnalysis.png)
+![SalesAnalysis](SalesAnalysis.png)
 
 ---
 
