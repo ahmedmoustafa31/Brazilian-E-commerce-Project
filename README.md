@@ -2,6 +2,15 @@
 
 This repository contains the workflow and insights derived from analyzing a Brazilian e-commerce dataset. The project demonstrates the complete data analysis pipeline, from raw data collection to insightful visualizations using **Power BI**.
 
+--- 
+## Introduction
+
+The Brazilian e-commerce market is one of the fastest-growing sectors in Latin America, driven by increasing internet penetration and consumer demand for online shopping. To better understand this dynamic industry, this project analyzes a comprehensive dataset of e-commerce transactions from Brazil. 
+
+The analysis covers multiple aspects, including sales trends, shipping cost efficiency, customer behavior, and seller performance. By leveraging tools such as **MySQL** and **Power BI**, the project aims to provide actionable insights that can drive better decision-making for businesses operating in the e-commerce domain. 
+
+This repository documents the entire journey, from raw data preprocessing to dashboard creation, showcasing the data-driven approach to uncover meaningful patterns and trends.
+
 ---
 
 ## Table of Contents
