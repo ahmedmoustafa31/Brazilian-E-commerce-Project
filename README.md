@@ -90,7 +90,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Monthly sales peaked in July 2017, driven by seasonal promotions.
 
 **Dashboard Preview**:  
-![SalesAnalysis](path/to/SalesAnalysis.png)
+![SalesAnalysis](Dashboards/SalesAnalysis.png)
 
 ---
 
@@ -102,7 +102,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - A direct correlation between shipping cost and product size was observed.
 
 **Dashboard Preview**:  
-![ShippingCost](path/to/ShippingCost.png)
+![ShippingCost](Dashboards/ShippingCost.png)
 
 ---
 
@@ -114,7 +114,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - States closer to São Paulo experienced faster delivery times.
 
 **Dashboard Preview**:  
-![OrderLifeCycle](path/to/OrderLifeCycle.png)
+![OrderLifeCycle](Dashboards/OrderLifeCycle.png)
 
 ---
 
@@ -126,7 +126,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Most customers preferred credit card payments, accounting for 74% of transactions.
 
 **Dashboard Preview**:  
-![CustomerInsights](path/to/CustomerInsights.png)
+![CustomerInsights](Dashboards/CustomerInsights.png)
 
 ---
 
@@ -138,7 +138,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Seller distribution aligned closely with customer density across states.
 
 **Dashboard Preview**:  
-![SellersEvaluation](path/to/SellersEvaluation.png)
+![SellersEvaluation](Dashboards/SellersEvaluation.png)
 
 ---
 
@@ -150,7 +150,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Over 99,000 unique customers were served, demonstrating extensive reach.
 
 **Dashboard Preview**:  
-![BusinessSummary](path/to/BusinessSummary.png)
+![BusinessSummary](Dashboards/BusinessSummary.png)
 
 ---
 
@@ -171,7 +171,5 @@ This repository documents the entire journey, from raw data preprocessing to das
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)  
+- [Ahmed Moustafa Kamal](https://github.com/ahmedmoustafa31)  
   Data Analyst and Business Intelligence Developer
-
-Feel free to reach out for collaborations or inquiries!
