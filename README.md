@@ -2,7 +2,8 @@
 
 This repository contains the workflow and insights derived from analyzing a Brazilian e-commerce dataset. The project demonstrates the complete data analysis pipeline, from raw data collection to insightful visualizations using **Power BI**.
 
---- 
+---
+
 ## Introduction
 
 The Brazilian e-commerce market is one of the fastest-growing sectors in Latin America, driven by increasing internet penetration and consumer demand for online shopping. To better understand this dynamic industry, this project analyzes a comprehensive dataset of e-commerce transactions from Brazil. 
@@ -89,7 +90,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Monthly sales peaked in July 2017, driven by seasonal promotions.
 
 **Dashboard Preview**:  
-*(Insert image here)*
+![SalesAnalysis](path/to/SalesAnalysis.png)
 
 ---
 
@@ -101,7 +102,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - A direct correlation between shipping cost and product size was observed.
 
 **Dashboard Preview**:  
-*(Insert image here)*
+![ShippingCost](path/to/ShippingCost.png)
 
 ---
 
@@ -113,7 +114,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - States closer to São Paulo experienced faster delivery times.
 
 **Dashboard Preview**:  
-*(Insert image here)*
+![OrderLifeCycle](path/to/OrderLifeCycle.png)
 
 ---
 
@@ -125,7 +126,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Most customers preferred credit card payments, accounting for 74% of transactions.
 
 **Dashboard Preview**:  
-*(Insert image here)*
+![CustomerInsights](path/to/CustomerInsights.png)
 
 ---
 
@@ -137,7 +138,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Seller distribution aligned closely with customer density across states.
 
 **Dashboard Preview**:  
-*(Insert image here)*
+![SellersEvaluation](path/to/SellersEvaluation.png)
 
 ---
 
@@ -149,7 +150,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 - Over 99,000 unique customers were served, demonstrating extensive reach.
 
 **Dashboard Preview**:  
-*(Insert image here)*
+![BusinessSummary](path/to/BusinessSummary.png)
 
 ---
 
@@ -170,6 +171,7 @@ This repository documents the entire journey, from raw data preprocessing to das
 
 ## Author
 
-- [Ahmed Moustafa Kamal](https://github.com/ahmedmoustafa31)  
+- [Your Name](https://github.com/yourusername)  
   Data Analyst and Business Intelligence Developer
 
+Feel free to reach out for collaborations or inquiries!
